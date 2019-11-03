@@ -1,5 +1,5 @@
-public class Second{
+public class Second {
 	public static void main(String args[]){
-		System.out.println("Second GitHub file");
+		System.out.println("Second GitHub file after mod");
 	}
 }
